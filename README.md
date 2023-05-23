@@ -1,12 +1,14 @@
 # Twitter-Analysis
 The goal is to to identify whether Twitter can be considered a credible source of information, reflects the emergence of important trends or topics in education, specifically: “Online Learning”.
 
+**(More details in the Code.ipynb and Presentation.pdf file)**
+
 ## Data
 The collection of Twitter data that is stored in Google Cloud Storage.  Once combining individual JSON files, there will be ~100 million Tweets (~500GB).  These tweets are collected on the topics of education, schools, universities, learning, knowledge sharing, etc., but only a fraction of them would be directly related to either primary, secondary or higher education.
 
 ## Steps
 ### Discard irrelevant tweets
-### Complete thorough EDA to identify which variables you can use to profile the Twitterers
+### Complete thorough EDA 
 ### Identify the most prolific / influential Twitterers
   - By message volume (original content)
   - By message retweet (how often their messages are being retweeted).  
