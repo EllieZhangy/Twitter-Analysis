@@ -4,7 +4,7 @@ The goal is to to identify whether Twitter can be considered a credible source o
 **(More details in the Code.ipynb and Presentation.pdf file)**
 
 ## Data
-The collection of Twitter data that is stored in Google Cloud Storage.  Once combining individual JSON files, there will be ~100 million Tweets (~500GB).  These tweets are collected on the topics of education, schools, universities, learning, knowledge sharing, etc., but only a fraction of them would be directly related to either primary, secondary or higher education.
+The collection of Twitter data that is stored in Google Cloud Storage.  Once combining individual JSON files, there will be ~100 million Tweets (~500GB).  These tweets are collected on the topics of education, schools, universities, learning, knowledge sharing, etc., with only a fraction of them would be directly related to either primary, secondary or higher education.
 
 ## Steps
 ### Discard irrelevant tweets
